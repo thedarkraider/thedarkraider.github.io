@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: page
 title: Into the Storm
+permalink: /One-offs/Into-the-Storm/
 ---
 
 Well, now that you ask, Mr Jasper, there was this incident with this one man which was so peculiar that his disappearance keeps me up some nights. Not one that the Bureau was assigned to but which was so bizarre in its details that it still remains mysterious. According to everyone concerned, he was dead. At least that’s what you would expect of a man who sailed into an incoming storm and never return. The storm did return his boat, along with everything in it. And the wreck would convince you that he went down under, but something makes me think he walked back from the storm.
