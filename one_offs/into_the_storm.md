@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Into the Storm
 permalink: /One-offs/Into-the-Storm/
 ---
